@@ -1,6 +1,6 @@
 # Práctica utilizando CSS 
 
-*En esta práctica se utilizó la propiedad flexbox para centrar la tarjeta y la imagen del código QR* :shipit:
+*En esta práctica se utilizó la propiedad* `flexbox` *para centrar la tarjeta y la imagen del código QR*  :shipit:
 
 ![Práctica con la cual se está aprendiendo HTML y CSS](./IMG/tarjeta.png)
 
